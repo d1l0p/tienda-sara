@@ -1,0 +1,7 @@
+SELECT TOP (1000) [IdProductos]
+      ,[Descripcion]
+      ,[Precio]
+      ,[Cantidad]
+      ,[IdCategorias]
+      ,[IdMarcas]
+  FROM [Tienda Sara].[dbo].[PRODUCTOS]
